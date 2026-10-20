@@ -356,10 +356,10 @@ git merge anybranch
 
 ### Мэмы по Git
 
-![Какой-то текст](/content/Git/img/1.jpg)
+![Какой-то текст](https://i0.wp.com/dumbitdude.com/wp-content/uploads/2021/09/git-merge-meme.png?resize=802%2C666&ssl=1)
 
-![Какой-то текст](/content/Git/img/2.jpg)
+![Какой-то текст](https://i.pinimg.com/736x/fb/bb/d2/fbbbd26d10262fd4299be07c28226047.jpg)
 
-![Какой-то текст](/content/Git/img/3.jpg)
+![Какой-то текст](https://cs9.pikabu.ru/post_img/2019/04/23/0/1555969719170323830.jpg)
 
-![Какой-то текст](/content/Git/img/4.jpg)
+![Какой-то текст](https://avatars.mds.yandex.net/i?id=f5e2126aea11448d2f755aeb6da22be12e320bb2-10576312-images-thumbs&n=13)
