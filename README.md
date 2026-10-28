@@ -1,30 +1,15 @@
-<img width="563" height="204" alt="Снимок экрана 2026-09-22 114724" src="https://github.com/user-attachments/assets/4dbcf282-ad26-4e25-9bdc-8db1d4986717" />
-<img width="667" height="155" alt="Снимок экрана 2026-09-22 114710" src="https://github.com/user-attachments/assets/7687697e-6602-48e0-9642-1160f41e7a44" />
-<img width="444" height="343" alt="Снимок экрана 2026-09-22 114613 — копия" src="https://github.com/user-attachments/assets/efe73a96-e792-4a6c-940b-542bb205b306" />
-<img width="433" height="138" alt="Снимок экрана 2026-09-22 114551 — копия" src="https://github.com/user-attachments/assets/f19f2891-db8c-4799-81f8-206832568d1d" />
+## Репозиторий по дисциплине
 
+Навигация
 
-<img width="689" height="320" alt="Снимок экрана 2026-09-22 114537 — копия" src="https://github.com/user-attachments/assets/b97682f0-fd5c-4dea-9195-9b047363812b" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- [Основы редактирования текста](/Text.md)
+- [Markdown](/Markdown.md)
+- [Mermaid](/Mermaid.md)
+- [BashCLI](/Linux/Bash/bashCLI.md)
+- [BashScripting](/Linux/Bash/bashScripting.md)
+- [Git](/Git.md)
+- [Работа BashScripting](/bashscriptingwork/README.md)
+- [Мой демонстрационный сайт](https://lokifarm13.github.io/my_site/)
+- [Репозиторий сайта](https://github.com/lokifarm13/my_site.git)
+- [Репозиторий работы сайта автосервиса](https://github.com/lokifarm13/static-site_work)
+- [Работа сайт автосервиса](https://lokifarm13.github.io/static-site_work/)
