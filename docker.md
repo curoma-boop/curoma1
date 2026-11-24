@@ -170,3 +170,9 @@ exit
 ### Ссылки
  
 - [Docker Reminder](https://www.altlinux.org/Docker_Reminder)
+
+---
+
+# Практическая работа: Nginx в Docker
+
+(здесь ваш текст с картинками)
